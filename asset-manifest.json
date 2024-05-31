@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2b599992.css",
-    "main.js": "/static/js/main.38b96d25.js",
+    "main.js": "/static/js/main.7660bae2.js",
     "static/media/ShelfLife.ttf": "/static/media/ShelfLife.b580e01050ea9f1aac6c.ttf",
     "static/media/footer-coins-chest.png": "/static/media/footer-coins-chest.0c3fd1a7a2e8bd697f8d.png",
     "static/media/shine-coins.gif": "/static/media/shine-coins.a2a484a9907b0a3b4488.gif",
@@ -23,10 +23,10 @@
     "static/media/carlito-vietnamese-400-normal.woff": "/static/media/carlito-vietnamese-400-normal.a60665befe0cbaebc9bb.woff",
     "index.html": "/index.html",
     "main.2b599992.css.map": "/static/css/main.2b599992.css.map",
-    "main.38b96d25.js.map": "/static/js/main.38b96d25.js.map"
+    "main.7660bae2.js.map": "/static/js/main.7660bae2.js.map"
   },
   "entrypoints": [
     "static/css/main.2b599992.css",
-    "static/js/main.38b96d25.js"
+    "static/js/main.7660bae2.js"
   ]
 }
