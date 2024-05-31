@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2b599992.css",
+    "main.js": "/static/js/main.338e9d4f.js",
+    "static/media/ShelfLife.ttf": "/static/media/ShelfLife.b580e01050ea9f1aac6c.ttf",
+    "static/media/footer-coins-chest.png": "/static/media/footer-coins-chest.0c3fd1a7a2e8bd697f8d.png",
+    "static/media/shine-coins.gif": "/static/media/shine-coins.a2a484a9907b0a3b4488.gif",
+    "static/media/coins-bg-left.png": "/static/media/coins-bg-left.0954dfbc067b9d77cf84.png",
+    "static/media/coins-bg-right.png": "/static/media/coins-bg-right.dc68bcfb2341edc8906e.png",
+    "static/media/carlito-latin-ext-400-normal.woff2": "/static/media/carlito-latin-ext-400-normal.81fb62a05228a35d824a.woff2",
+    "static/media/carlito-latin-ext-400-normal.woff": "/static/media/carlito-latin-ext-400-normal.31307590e099b36f1d30.woff",
+    "static/media/carlito-latin-400-normal.woff2": "/static/media/carlito-latin-400-normal.3312f757e70ab78d9478.woff2",
+    "static/media/carlito-cyrillic-ext-400-normal.woff2": "/static/media/carlito-cyrillic-ext-400-normal.185f68ce9b8bb62ba893.woff2",
+    "static/media/carlito-latin-400-normal.woff": "/static/media/carlito-latin-400-normal.ed70aa9654ccc1dc5693.woff",
+    "static/media/carlito-cyrillic-ext-400-normal.woff": "/static/media/carlito-cyrillic-ext-400-normal.16028302e7f34ec32080.woff",
+    "static/media/carlito-greek-ext-400-normal.woff2": "/static/media/carlito-greek-ext-400-normal.3e39b520511722e49534.woff2",
+    "static/media/carlito-greek-400-normal.woff2": "/static/media/carlito-greek-400-normal.2357081cf46030ec8452.woff2",
+    "static/media/carlito-vietnamese-400-normal.woff2": "/static/media/carlito-vietnamese-400-normal.dee0c98eb28a2065c468.woff2",
+    "static/media/carlito-greek-400-normal.woff": "/static/media/carlito-greek-400-normal.90c1a566dcc74c575c37.woff",
+    "static/media/carlito-cyrillic-400-normal.woff2": "/static/media/carlito-cyrillic-400-normal.374ad356f49b2bd13f83.woff2",
+    "static/media/carlito-cyrillic-400-normal.woff": "/static/media/carlito-cyrillic-400-normal.6efd94f15f9f14cd4fba.woff",
+    "static/media/carlito-greek-ext-400-normal.woff": "/static/media/carlito-greek-ext-400-normal.bec3e2e1b3b7734cd433.woff",
+    "static/media/carlito-vietnamese-400-normal.woff": "/static/media/carlito-vietnamese-400-normal.a60665befe0cbaebc9bb.woff",
+    "index.html": "/index.html",
+    "main.2b599992.css.map": "/static/css/main.2b599992.css.map",
+    "main.338e9d4f.js.map": "/static/js/main.338e9d4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b599992.css",
+    "static/js/main.338e9d4f.js"
+  ]
+}
