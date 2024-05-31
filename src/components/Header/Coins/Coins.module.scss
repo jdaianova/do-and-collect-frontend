@@ -1,0 +1,14 @@
+@import "../../../styles/vars";
+
+.coins {
+  @include shadow-block;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  max-height: 150px;
+  background-color: $header-color;
+  min-width: 400px;
+  flex: 1;
+  margin: auto;
+}

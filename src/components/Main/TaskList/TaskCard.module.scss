@@ -1,0 +1,82 @@
+.taskCard {
+  width: 100%;
+  box-shadow: 0px 0px 10px rgba(224, 116, 14, 0.1);
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.taskContainer {
+  width: 100%;
+  display: flex;
+}
+
+.reward {
+  padding: 20px 30px;
+  text-align: center;
+}
+
+.reward img {
+  width: 50px;
+}
+
+.reward p {
+  font-size: 35px;
+  font-weight: 700;
+}
+
+.description {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.descriptionText {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 10px 15px;
+  background-color: #f9f6f4;
+  flex-grow: 1;
+  word-break: break-all;
+}
+
+.descriptionText svg {
+  margin-left: 5px;
+}
+
+.descriptionText textarea {
+  width: 100%;
+  border: none;
+  outline: none;
+  padding: 10px;
+  height: 100%;
+}
+
+.date {
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+  font-size: 18px;
+}
+
+.description button {
+  background-color: transparent;
+}
+
+.deleteBtn {
+  width: 100%;
+  background: linear-gradient(45deg, #ffd700, #ffc200, #ffa700, #ff8c00);
+  padding: 7px;
+  color: white;
+  font-size: 20px;
+}
+
+.deleteBtn:hover {
+  background: linear-gradient(-2deg, #ffd700, #ffc200, #ffa700, #ff8c00);
+}

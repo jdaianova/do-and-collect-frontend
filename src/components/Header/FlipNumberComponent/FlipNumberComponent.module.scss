@@ -1,0 +1,15 @@
+@import "../../../styles/vars";
+
+.flipNumberContainer{
+    padding-top: 7px;
+}
+
+.flipNumberContainer section span span span {
+    font-size: 50px !important;
+    font-family: $font-coins;
+    color: #963E26;
+}
+
+.flipNumberContainer section span {
+    width: 42px !important;
+}

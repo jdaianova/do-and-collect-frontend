@@ -1,0 +1,12 @@
+@import './vars';
+@import './normalize.scss';
+
+body {
+  font-family: $font-main;
+  background: $bg;
+  height: 100vh;
+}
+
+button {
+  cursor: pointer;
+}

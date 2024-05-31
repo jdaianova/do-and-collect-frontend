@@ -1,0 +1,30 @@
+html {
+  box-sizing: border-box;
+  font-size: 100%; // устанавливает базовый размер шрифта для документа
+}
+
+*, p,
+*::before,
+*::after {
+  box-sizing: inherit; // наследует box-sizing от элемента html
+  margin: 0; // сбрасывает внешние отступы
+  padding: 0; // убрасывает внутренние отступы
+}
+
+ul,
+ol {
+  list-style: none; // удаляет маркеры у списков
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  color: inherit; // чтобы ссылки наследовать цвет текста от родителя
+  text-decoration: none; // убирает подчеркивание у ссылок
+}
+
+button {
+  background: none;
+  border: none;
+  padding: 0;
+}

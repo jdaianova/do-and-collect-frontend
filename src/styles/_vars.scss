@@ -1,0 +1,31 @@
+@import "@fontsource/carlito";
+
+@font-face {
+  font-family: 'Shelf Life';
+  src: url('../shared/assets/fonts/shelf-life/ShelfLife.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+$font-main: 'Carlito', sans-serif;
+$font-coins: 'Shelf Life', sans-serif;
+
+$bg: radial-gradient(
+  circle at center 65%,
+  #ffffff 0%,
+  #ffffff 40%,
+  #fff5e1 70%,
+  #fefde8 100%
+);
+
+$header-color: rgb(255, 245, 225);
+$input-bg-color: rgb(249, 246, 244);
+$button-color-light: rgb(175, 84, 23);
+$button-color-dark: rgb(128, 64, 22);
+
+@mixin shadow-block {
+  border-radius: 7px;
+  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.1);
+  background-color: white;
+  overflow: hidden;
+}
